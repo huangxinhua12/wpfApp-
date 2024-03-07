@@ -1,0 +1,13 @@
+C:\Users\lx\source\repos\WpfApp1\bin\Release\WpfApp1.dll
+C:\Users\lx\source\repos\WpfApp1\bin\Release\WpfApp1.pdb
+C:\Users\lx\source\repos\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\lx\source\repos\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
+C:\Users\lx\source\repos\WpfApp1\obj\Release\WpfApp1_MarkupCompile.lref
+C:\Users\lx\source\repos\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\lx\source\repos\WpfApp1\obj\Release\WpfApp1.g.resources
+C:\Users\lx\source\repos\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\lx\source\repos\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.cache
+C:\Users\lx\source\repos\WpfApp1\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\lx\source\repos\WpfApp1\obj\Release\WpfApp1.dll
+C:\Users\lx\source\repos\WpfApp1\obj\Release\WpfApp1.pdb
+C:\Users\lx\source\repos\WpfApp1\obj\Release\WpfApp1.csproj.AssemblyReference.cache
